@@ -7,6 +7,18 @@
   }
 }
 
+@media (min-width: 1600px) {
+	.content {
+	  padding: 0 20rem !important;
+	}
+}
+
+@media (min-width: 3000px) {
+	.content {
+	  padding: 0 40rem !important;
+	}
+}
+
 .layout {
   min-height: 100vh;
   .inner-layout {
